@@ -61,8 +61,6 @@ Throughout my academic journey, I have gained hands-on experience through variou
 
 **![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)** alex.billonnet@gmail.com 
 
-**![Phone](https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)** +33 6 46 73 22 04 
-
 **![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)** [LinkedIn Profile](https://www.linkedin.com/in/alexandre-billonnet/) 
 
 **![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)** [GitHub Profile](https://github.com/BAYRYO) 

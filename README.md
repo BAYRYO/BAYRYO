@@ -44,6 +44,8 @@ Au cours de mon parcours académique, j'ai acquis une expérience pratique grâc
 - **Personnages excentriques** : Rencontrez des ennemis et des alliés avec des personnalités quirky.
 - **Graphismes colorés** : Un style visuel vibrant et attrayant.
 
+**Voir le code :** [![GitHub](https://img.shields.io/badge/GitHub-SuperMarigolo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BAYRYO/SuperMarigolo)
+
 ## Formation
 
 **Bachelor Universitaire de Technologie (BUT) en Informatique**  

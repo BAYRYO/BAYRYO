@@ -1,6 +1,5 @@
 # Profile
 
-![Profile Picture]()  
 **Name:** Alexandre Billonnet  
 **Degree:** Bachelor of University Technology (BUT) in Computer Science  
 **Year:** 3rd Year  
@@ -37,17 +36,6 @@ Throughout my academic journey, I have gained hands-on experience through variou
 **High School Diploma**  
 *Lycée Turgot, Limoges, France*  
 *2019 - 2022*
-
-## Projects
-
-### Project 1: E-commerce Website
-- Developed a fully functional e-commerce website using Java, Spring Framework, and MySQL.
-- Implemented user authentication, product management, and shopping cart features.
-- Integrated payment gateway for secure transactions.
-
-### Project 2: Data Analysis Tool
-- Created a data analysis tool using Python and Pandas to process and visualize large datasets.
-- Developed interactive dashboards using Plotly and Dash for better data interpretation.
 
 ## Interests
 

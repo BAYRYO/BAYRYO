@@ -53,7 +53,7 @@ Au cours de mon parcours académique, j'ai acquis une expérience pratique grâc
 *2022 - Présent*
 
 **Baccalauréat Général Spécialité Mathématiques/Physique-Chimie/SI**  
-*Lycée Turgot, Limoges, France*
+*Lycée Turgot, Limoges, France*  
 *2019 - 2022*
 
 ## Intérêts

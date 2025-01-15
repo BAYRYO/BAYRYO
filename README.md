@@ -32,6 +32,7 @@ Throughout my academic journey, I have gained hands-on experience through variou
 ### Super Marigolo
 
 ![Super Marigolo](https://raw.githubusercontent.com/BAYRYO/SuperMarigolo/refs/heads/main/src/ressources/Player/2.png)
+<img src="https://raw.githubusercontent.com/BAYRYO/SuperMarigolo/refs/heads/main/src/ressources/Player/2.png" alt="Super Marigolo" style="max-width:500px; max-height:500px;">
 
 #### Description
 

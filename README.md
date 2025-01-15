@@ -12,6 +12,16 @@ Je suis étudiant en 3ème année en Bachelor Universitaire de Technologie (BUT)
 
 Au cours de mon parcours académique, j'ai acquis une expérience pratique grâce à divers projets et travaux universitaires. Je suis passionné d'apprendre de nouvelles technologies et de les appliquer pour résoudre des problèmes du monde réel. Mon objectif est de devenir un développeur logiciel chevronné, avec une spécialisation sur la création d'applications efficaces et scalable.
 
+## Formation
+
+**Bachelor Universitaire de Technologie (BUT) en Informatique**  
+*IUT du Limousin, Limoges, France*  
+*2022 - Présent*
+
+**Baccalauréat Général Spécialité Mathématiques/Physique-Chimie/SI**  
+*Lycée Turgot, Limoges, France*  
+*2019 - 2022*
+
 ## Compétences
 
 ### Compétences Techniques
@@ -45,16 +55,6 @@ Au cours de mon parcours académique, j'ai acquis une expérience pratique grâc
 - **Graphismes colorés** : Un style visuel vibrant et attrayant.
 
 **Voir le code :** [![GitHub](https://img.shields.io/badge/GitHub-SuperMarigolo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BAYRYO/SuperMarigolo)
-
-## Formation
-
-**Bachelor Universitaire de Technologie (BUT) en Informatique**  
-*IUT du Limousin, Limoges, France*  
-*2022 - Présent*
-
-**Baccalauréat Général Spécialité Mathématiques/Physique-Chimie/SI**  
-*Lycée Turgot, Limoges, France*  
-*2019 - 2022*
 
 ## Intérêts
 

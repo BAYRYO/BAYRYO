@@ -27,6 +27,23 @@ Throughout my academic journey, I have gained hands-on experience through variou
 - **![Communication](https://img.shields.io/badge/Communication-FF9800?style=flat-square&logo=chat&logoColor=white)** 
 - **![Project Management](https://img.shields.io/badge/Project%20Management-9C27B0?style=flat-square&logo=project&logoColor=white)**
 
+## Project
+
+### Super Marigolo
+
+![Super Marigolo](https://raw.githubusercontent.com/BAYRYO/SuperMarigolo/refs/heads/main/src/ressources/Player/0.png)
+
+#### Description
+
+**Super Marigolo** is a game developed in 48 hours during the Global Game Jam 2024. The theme for this year was "Make Me Laugh." In this humorous platformer, you play as Marigolo, a quirky character who must navigate through levels filled with absurd obstacles and wacky enemies to save the Kingdom of Laughter.
+
+#### Features
+
+- **Humorous Gameplay**: Game mechanics designed to provoke laughter.
+- **Diverse Levels**: Multiple levels with unique challenges and comedic surprises.
+- **Eccentric Characters**: Encounter enemies and allies with quirky personalities.
+- **Colorful Graphics**: A vibrant and appealing visual style.
+
 ## Education
 
 **Bachelor of University Technology (BUT) in Computer Science**  

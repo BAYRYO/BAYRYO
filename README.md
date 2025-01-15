@@ -52,8 +52,8 @@ Au cours de mon parcours académique, j'ai acquis une expérience pratique grâc
 *IUT du Limousin, Limoges, France*  
 *2022 - Présent*
 
-**Baccalauréat Général Spécialité Mathématiques/Physique-Chimie/SI**
-*Lycée Turgot, Limoges, France*  
+**Baccalauréat Général Spécialité Mathématiques/Physique-Chimie/SI**  
+*Lycée Turgot, Limoges, France*
 *2019 - 2022*
 
 ## Intérêts

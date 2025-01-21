@@ -68,7 +68,7 @@ Au cours de mon parcours académique, j'ai acquis une expérience pratique grâc
 
 **![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)** alex.billonnet@gmail.com 
 
-**![Email_étudiant](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)** alexandre.billonnet@etu.unilim.fr
+**![Email étudiant](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)** alexandre.billonnet@etu.unilim.fr
 
 **![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)** [Profil LinkedIn](https://www.linkedin.com/in/alexandre-billonnet/) 
 
